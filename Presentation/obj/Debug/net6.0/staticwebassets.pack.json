@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/Presentation.bundle.scp.css"
     },
     {
+      "Id": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/images/682e8a8b-8c2f-4b49-b50d-f9f6d42a6d73.jpg",
+      "PackagePath": "staticwebassets/images/682e8a8b-8c2f-4b49-b50d-f9f6d42a6d73.jpg"
     },
     {
       "Id": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/js/site.js",

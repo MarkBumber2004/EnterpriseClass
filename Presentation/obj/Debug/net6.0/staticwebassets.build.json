@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iwniKIy3oQbJ42TgfIehKiLdGFLudZ/0oMYqKWpv1Wg=",
+  "Hash": "LKNUxgjQGEK998paSyJB0Hekn9Ev2qwF0x0BNcBufVQ=",
   "Source": "Presentation",
   "BasePath": "_content/Presentation",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/obj/Debug/net6.0/scopedcss/projectbundle/Presentation.bundle.scp.css"
     },
     {
+      "Identity": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/.DS_Store",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/",
+      "BasePath": "_content/Presentation",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/css/site.css",
       "SourceId": "Presentation",
       "SourceType": "Discovered",
@@ -1103,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/images/682e8a8b-8c2f-4b49-b50d-f9f6d42a6d73.jpg",
+      "SourceId": "Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/",
+      "BasePath": "_content/Presentation",
+      "RelativePath": "images/682e8a8b-8c2f-4b49-b50d-f9f6d42a6d73.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/682e8a8b-8c2f-4b49-b50d-f9f6d42a6d73.jpg"
     },
     {
       "Identity": "/Users/markzammit/Documents/Mcast/2nd Year/Enterprise Programming/Solution1/Presentation/wwwroot/js/site.js",

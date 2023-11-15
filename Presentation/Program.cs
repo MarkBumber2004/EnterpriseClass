@@ -61,6 +61,8 @@ namespace Presentation
             app.MapRazorPages();
 
             app.Run();
+            
+            app.helkllo();
         }
     }
 }
